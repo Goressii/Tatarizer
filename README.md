@@ -1,0 +1,1 @@
+![До](/images/example.jpg)
